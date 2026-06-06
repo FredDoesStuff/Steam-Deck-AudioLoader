@@ -1,1 +1,1 @@
-# -Steam-Deck-AudioLoader
+# Steam-Deck-AudioLoader
